@@ -1,0 +1,15 @@
+===========THE CAR SHOWROOM WEBSITE SCRIPT====================
+
+1. Download the the zip file
+2. Extract the file and copy newsportal folder
+3. Paste inside root directory(for xampp xamp/htdocs, for wampp/www,for lamp var/www/html)
+4. Create a database with name 'carshowdb'
+5. Import carshowdb.sql file(given inside the zip package in database folder)
+6. Run the script http://localhost/AGcarshowroom/ (frontend)
+7. For admin panel  http://localhost/AGcarshowroom/admin
+
+credential for admin panel :
+username / email : AbhiGokul
+Password : AbhiGokul@123
+
+==============================Thanks for downloading=====================
