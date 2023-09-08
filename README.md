@@ -25,4 +25,4 @@ credential for admin panel :
 username / email : AbhiGokul
 Password : AbhiGokul@123
 
-==============================Thanks for downloading=====================
+===================================================
